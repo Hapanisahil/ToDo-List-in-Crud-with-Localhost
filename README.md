@@ -15,7 +15,7 @@ A comprehensive To-Do List application built using HTML, CSS, and JavaScript, fe
 - **Local Storage**: Stores tasks in the browser's local storage to preserve data between sessions.
 - **Responsive Design**: Optimized for various devices and screen sizes.
 
-## Getting Started
+## Getting Started with React js
 
 1. **Clone the repository**:
     ```bash
